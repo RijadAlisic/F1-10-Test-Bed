@@ -13,5 +13,6 @@ HOW TO RUN:
 
 HOW TO DRIVE:
 * Source the ROS package and navigate to the controller folder inside src folder. From there, run control_opt.py or control_opt_discrete.py depending on the controller youd like to run
+
 OR
 * The vehicle subscribes to the topic ackermann_cmd with the message type AckermannDrive. Use this to create your own python program to control the vehicle.
