@@ -1,5 +1,9 @@
 # F1-10-simulation
 
+NECESSARY ROS PACKAGES (That are not included in ros-indigo-desktop-full)
+* ros-indigo-joint-state-controller
+* ros-indigo-effort-controller
+* ros-indigo-ackermann-msgs
 
 INSTALLATION (With ROS catkin_make):
 1. Download src folder
