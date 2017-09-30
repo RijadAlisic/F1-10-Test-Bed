@@ -32,7 +32,7 @@ When you are done with the SLAM tutorial, do the following in order to get the c
 This should connect the SLAM nodes correctly.
 
 
-Installation of the F110 on the Gazebo simulator
+Installation of the F110 on the Gazebo simulator:
 
 NECESSARY ROS PACKAGES (That are not included in ros-indigo-desktop-full)
 * ros-indigo-joint-state-controller
