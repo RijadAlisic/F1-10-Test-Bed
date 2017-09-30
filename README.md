@@ -40,9 +40,9 @@ NECESSARY ROS PACKAGES (That are not included in ros-indigo-desktop-full)
 * ros-indigo-ackermann-msgs
 
 INSTALLATION (With ROS catkin_make):
-1. Download src folder
+1. Download ackermann_vehicle folder
 2. Create a new folder
-3. Paste the src folder into the new one
+3. Paste the ackermann_vehicle folder into the new one
 4. Run 'catkin_make' in a terminal window from within the folder
 
 HOW TO RUN:
