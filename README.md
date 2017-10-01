@@ -32,6 +32,10 @@ When you are done with the SLAM tutorial, do the following in order to get the c
 
 This should connect the SLAM nodes correctly.
 
+All you need to run now is the runF110.py code to start all the sensors. This takes approximately 1 minute. Then, you can study the main_f110.py code which is an example of how one can use the existing methods to command the car to move to various places. Essentially, there is a function in methods_f110.py called "goto", which tells the vehicle to go to the coordinates (x,y) with the end goal orientation phi.
+
+
+
 
 Installation of the F110 on the Gazebo simulator:
 
